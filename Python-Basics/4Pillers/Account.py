@@ -22,7 +22,7 @@ class Account(Bank):
         return self.acc_mobile
 
 
-""" a1 = Account('rahul', 'rahul@gmail.com', 'Bangalore')
+""" a1 = Account('rahul', 'rahulgandhi@gmail.com', 'delhi')
 
 print(a1.__dict__)
 a1.open_account()
